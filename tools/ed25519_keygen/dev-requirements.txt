@@ -1,4 +1,0 @@
-cryptography
-pytest
-nox
-mypy
